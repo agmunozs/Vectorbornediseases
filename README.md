@@ -1,2 +1,2 @@
 # Vectorbornediseases
-Mainly plotting codes
+Mainly plotting and processing scripts.
